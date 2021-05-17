@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1544620943 source:c:\users\fagun\documents\mega\ufop\trabalhos\pendentes\vinicius\trabalho\func.c
+	"func.h"
+
+1544621208 c:\users\fagun\documents\mega\ufop\trabalhos\pendentes\vinicius\trabalho\func.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1544620896 source:c:\users\fagun\documents\mega\ufop\trabalhos\pendentes\vinicius\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"func.h"
+
+1544620943 source:e:\mega\ufop\trabalhos\pendentes\vinicius\trabalho\func.c
+	"func.h"
+
+1544621732 e:\mega\ufop\trabalhos\pendentes\vinicius\trabalho\func.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1544620896 source:e:\mega\ufop\trabalhos\pendentes\vinicius\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"func.h"
+
+1544640429 source:c:\users\vinicius\desktop\trabalho\func.c
+	"func.h"
+
+1544638935 c:\users\vinicius\desktop\trabalho\func.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1544620896 source:c:\users\vinicius\desktop\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"func.h"
+
+1618600621 source:c:\users\vinicius\desktop\nova pasta (2)\trabalho ordenacao em c\func.c
+	"func.h"
+
+1618593496 c:\users\vinicius\desktop\nova pasta (2)\trabalho ordenacao em c\func.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1618599276 source:c:\users\vinicius\desktop\nova pasta (2)\trabalho ordenacao em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"func.h"
+
+1618599276 source:c:\users\vinicius\desktop\trabalho ordenacao em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"func.h"
+
+1618593496 c:\users\vinicius\desktop\trabalho ordenacao em c\func.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
